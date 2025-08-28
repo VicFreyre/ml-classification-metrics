@@ -1,3 +1,4 @@
+
 # 🐍 Avaliação de Modelos de Classificação: Métricas e Implementação em Python 
 
 ## 1. Introdução
@@ -8,7 +9,10 @@ A avaliação de modelos de classificação é essencial para medir a qualidade 
 - **Falsos Positivos (FP):** Casos negativos incorretamente previstos como positivos.
 - **Falsos Negativos (FN):** Casos positivos incorretamente previstos como negativos.
 
-Com base nesses valores, calculam-se métricas que fornecem uma visão detalhada do desempenho do modelo, como **sensibilidade**, **especificidade**, **acurácia**, **precisão** e **F-score**.
+<img width="1093" height="507" alt="image" src="https://github.com/user-attachments/assets/7a61eb51-d76b-42df-8032-1637a03a042c" />
+
+Execute o modelo pelo [Google Colab](https://colab.research.google.com/drive/1FWQuTgwRWB7lslvNlbtoeCgisOpmLh5R#scrollTo=Tu3UAuvVP3Bb)
+
 
 ---
 
